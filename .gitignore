@@ -3,6 +3,7 @@ ChangeLog
 *.bbl
 *.bcf
 *.blg
+*.cls
 *.dvi
 *.eps
 *.fdb_latexmk
