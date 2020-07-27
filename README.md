@@ -27,7 +27,7 @@ Compilazione della guida
 ------------------------
 
 Per compilare il documento è necessaria la classe `guidatematica.cls`
-disponibile all'indirizzo https://github.com/GuITeX/guidetematiche.  Per
+disponibile all'indirizzo https://github.com/GuITeX/guidatematica.  Per
 compilare il documento in formato DVI si può dare il comando
 ````
 $ make dvi
